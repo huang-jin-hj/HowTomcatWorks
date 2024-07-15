@@ -1,0 +1,40 @@
+2022-04-28 18:00:51 HttpConnector Opening server socket on all host IP addresses
+2022-04-28 18:00:51 HttpConnector[8080] Starting background thread
+2022-04-28 18:00:51 HttpProcessor[8080][0] Starting background thread
+2022-04-28 18:00:51 HttpProcessor[8080][1] Starting background thread
+2022-04-28 18:00:51 HttpProcessor[8080][2] Starting background thread
+2022-04-28 18:00:51 HttpProcessor[8080][3] Starting background thread
+2022-04-28 18:00:51 HttpProcessor[8080][4] Starting background thread
+2022-04-28 18:00:51 starting Context
+2022-04-28 18:00:51 Context started
+2022-04-28 18:03:23 HttpConnector Opening server socket on all host IP addresses
+2022-04-28 18:03:23 HttpConnector[8080] Starting background thread
+2022-04-28 18:03:23 HttpProcessor[8080][0] Starting background thread
+2022-04-28 18:03:23 HttpProcessor[8080][1] Starting background thread
+2022-04-28 18:03:23 HttpProcessor[8080][2] Starting background thread
+2022-04-28 18:03:23 HttpProcessor[8080][3] Starting background thread
+2022-04-28 18:03:23 HttpProcessor[8080][4] Starting background thread
+2022-04-28 18:03:23 starting Context
+2022-04-28 18:03:23 Context started
+2022-04-28 18:03:57 stopping Context
+2022-04-28 18:03:57 Context stopped
+2022-04-28 18:03:58 HttpConnector Opening server socket on all host IP addresses
+2022-04-28 18:03:58 HttpConnector[8080] Starting background thread
+2022-04-28 18:03:58 HttpProcessor[8080][0] Starting background thread
+2022-04-28 18:03:58 HttpProcessor[8080][1] Starting background thread
+2022-04-28 18:03:58 HttpProcessor[8080][2] Starting background thread
+2022-04-28 18:03:58 HttpProcessor[8080][3] Starting background thread
+2022-04-28 18:03:58 HttpProcessor[8080][4] Starting background thread
+2022-04-28 18:04:10 starting Context
+2022-04-28 18:05:47 Context started
+2022-04-28 21:42:53 HttpConnector Opening server socket on all host IP addresses
+2022-04-28 21:42:53 HttpConnector[8080] Starting background thread
+2022-04-28 21:42:53 HttpProcessor[8080][0] Starting background thread
+2022-04-28 21:42:53 HttpProcessor[8080][1] Starting background thread
+2022-04-28 21:42:53 HttpProcessor[8080][2] Starting background thread
+2022-04-28 21:42:53 HttpProcessor[8080][3] Starting background thread
+2022-04-28 21:42:53 HttpProcessor[8080][4] Starting background thread
+2022-04-28 21:42:53 starting Context
+2022-04-28 21:42:53 Context started
+2022-04-28 21:44:30 stopping Context
+2022-04-28 21:44:30 Context stopped
